@@ -11,3 +11,6 @@ Edit the last line of the script to change the port, IP to bind to, and if you w
 **To view results:**
 
 `curl "http://127.0.0.1:5002/results/example.com" | jq .`
+
+## Disclaimer
+There are bugs.
