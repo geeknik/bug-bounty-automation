@@ -14,3 +14,5 @@ Edit the last line of the script to change the port, IP to bind to, and if you w
 
 ## Disclaimer
 There are bugs.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S1MHNPY) 
